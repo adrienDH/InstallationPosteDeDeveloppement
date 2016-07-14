@@ -7,11 +7,9 @@ Avoir la résolution maximum sur machine virtuel
 - L'icône du CD devrait apparaître sur le bureau
 - Copier Coller le répertoire dans le /home/Pilotes (créer ce répertoire)
 - Aller dans ce répertoire
-<pre><code>
-sudo -s
+<pre><code>sudo -s
 chmod u+x VBoxLinuxAdditions.run
-./VBoxLinuxAdditions.run
-</code></pre>
+./VBoxLinuxAdditions.run</code></pre>
 - Redémarrez Ubuntu.
 
 Installer apache 2
