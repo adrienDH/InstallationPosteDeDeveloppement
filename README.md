@@ -18,4 +18,8 @@ Installer apache 2
 a2enmod rewrite
 sudo service apache2 restart</code></pre>
 
+Installer PHP
+--
+<pre><code>sudo apt-get install php7.0</code></pre>
+
 
