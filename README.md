@@ -12,6 +12,10 @@ Avoir la résolution maximum sur machine virtuel
 <pre><code>./VBoxLinuxAdditions.run</code></pre>
 - Redémarrez Ubuntu.
 
-
+Installer apache 2
+--
+<pre><code>apt-get install apache2
+a2enmod rewrite
+sudo service apache2 restart</code></pre>
 
 
