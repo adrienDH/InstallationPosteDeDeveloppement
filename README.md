@@ -26,4 +26,7 @@ Installer PHP
 <pre><code>sudo apt-get install php7.0
 sudo apt-get install php libapache2-mod-php php-mcrypt php-mysql </code></pre>
 
+Installer GIT
+--
+<pre><code>sudo apt-get install git</code></pre>
 
