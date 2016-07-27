@@ -19,7 +19,7 @@ a2enmod rewrite
 sudo service apache2 restart</code></pre>
 
 - Aller dans le fichier /etc/apache2/site-available/000-default.conf
-- changer la ligne <pre><code>DocumentRoot /var/www/html</code></pre> en <pre><code>DocumentRoot /var/www/html</code></pre> 
+- changer la ligne <pre><code>DocumentRoot /var/www/html</code></pre> en <pre><code>DocumentRoot /var/www/</code></pre> 
 
 Installer PHP
 --
