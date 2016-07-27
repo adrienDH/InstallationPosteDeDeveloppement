@@ -23,6 +23,7 @@ sudo service apache2 restart</code></pre>
 
 Installer PHP
 --
-<pre><code>sudo apt-get install php7.0</code></pre>
+<pre><code>sudo apt-get install php7.0
+sudo apt-get install php libapache2-mod-php php-mcrypt php-mysql </code></pre>
 
 
